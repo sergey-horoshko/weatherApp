@@ -1,4 +1,4 @@
-# weather-app
+# weather-app by Sergey Khoroshko
 
 ## Project setup
 ```
