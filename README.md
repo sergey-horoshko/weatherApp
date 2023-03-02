@@ -1,4 +1,5 @@
 # weather-app by Sergey Khoroshko
+## https://sergey-horoshko.github.io/weatherApp/
 
 ## Project setup
 ```
